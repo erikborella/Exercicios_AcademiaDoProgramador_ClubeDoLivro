@@ -1,0 +1,13 @@
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.exe
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.deps.json
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.runtimeconfig.json
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.runtimeconfig.dev.json
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.dll
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\bin\Debug\netcoreapp3.1\ClubeDaLeitura.pdb
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.AssemblyInfoInputs.cache
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.AssemblyInfo.cs
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.dll
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.pdb
+C:\Users\erik0\source\repos\ClubeDaLeitura\ClubeDaLeitura\obj\Debug\netcoreapp3.1\ClubeDaLeitura.genruntimeconfig.cache
